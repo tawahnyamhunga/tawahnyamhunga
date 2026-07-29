@@ -13,7 +13,7 @@ Cyber Security Analyst with 4+ years across SOC and NOC environments, specialisi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/tawahnyamhunga/Detection_Lab">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -54,5 +54,5 @@ Cyber Security Analyst with 4+ years across SOC and NOC environments, specialisi
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/tawahnyamhunga/Detection_Lab">Detection Lab</a>
 - SOC Automation Project
